@@ -1,4 +1,5 @@
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app), using the [Redux](https://redux.js.org/) and [Redux Toolkit](https://redux-toolkit.js.org/) template.
+<h2> This is the slack-clone 2.0 build with tutor sonny sangha using react,redux and firebase hooks.The hosted application is here https://slack-clone-react-a4805.web.app</h2>
 
 ## Available Scripts
 
